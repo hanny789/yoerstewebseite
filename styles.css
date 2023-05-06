@@ -66,21 +66,21 @@ body {
  }
 
  .card1{
-   background-image: url(img/Amy_MacDonald.png);
+   background-image: url(Amy_MacDonald.png);
  }
  .card2{
-   background-image: url(img/rammstein.png);
+   background-image: url(rammstein.png);
  }
  .card3{
-   background-image: url(img/ed-sheeran.png);
+   background-image: url(ed-sheeran.png);
 
  }
  .card4{
-   background-image: url(img/P&J.png);
+   background-image: url(P&J.png);
 
  }
  .card5{
-   background-image: url(img/avicii.png);
+   background-image: url(avicii.png);
 
  }
  .card:hover{
